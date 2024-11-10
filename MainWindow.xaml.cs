@@ -51,11 +51,10 @@ namespace DerekszoguHaromszogek
                 {
                     string line = reader.ReadLine();
                     
-
                     try
                     {
+                        dHaromszogek.Add(new DHaromszog(line, sorszam));
                         sorszam++;
-                        dHaromszogek.Add(new DHaromszog(line, sorszam));    
                     }
                     catch (Exception ex) 
                     {

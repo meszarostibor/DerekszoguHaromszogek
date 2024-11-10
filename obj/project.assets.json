@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SULI\\FRONTEND\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\DerekszoguHaromszogek.csproj",
+      "projectUniqueName": "D:\\SULI\\ASZTALI_ALKALMAZAS\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\DerekszoguHaromszogek.csproj",
       "projectName": "DerekszoguHaromszogek",
-      "projectPath": "D:\\SULI\\FRONTEND\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\DerekszoguHaromszogek.csproj",
+      "projectPath": "D:\\SULI\\ASZTALI_ALKALMAZAS\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\DerekszoguHaromszogek.csproj",
       "packagesPath": "C:\\Users\\mesza\\.nuget\\packages\\",
-      "outputPath": "D:\\SULI\\FRONTEND\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\obj\\",
+      "outputPath": "D:\\SULI\\ASZTALI_ALKALMAZAS\\DerekszoguHaromszogek\\DerekszoguHaromszogek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
